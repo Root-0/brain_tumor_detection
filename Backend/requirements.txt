@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose
+passlib[bcrypt]
+PyJWT
+pytest
+httpx
+torch
+torchvision
+numpy
+SimpleITK
+nibabel
+pydicom
+python-multipart
+scipy

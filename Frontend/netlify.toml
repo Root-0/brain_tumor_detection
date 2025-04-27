@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = "npm run build"
+
+[dev]
+  command = "npm start"
+
+[build.environment]
+  NODE_VERSION = "18.0.0"
